@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Clould Projects</b>
-  - [Creating a Live Soc/Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Live Soc/Honeynet in Azure](https://github.com/Michaelkomolafe1/Cloud-SOC) 
 <h2>
 
 <h2> 🤳 Connect with me:</h2>
