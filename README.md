@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MichaelKomolafe1">Programmer</a>, <a href="https://www.linkedin.com/in/michael-komolafe-2235972a1/">Cybersecurity Analyst</a>,</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
